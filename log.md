@@ -1,12 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 1. 05.12.2022
+### Day 2. 06.12.2022
 
+**Today's Progress**
+
+Adding a first draft for choosing how many rounds should be played. Doing it with a while True loop. But I am not sure about adding multiple conditions. Separating it by "or", does that work? If I run it it works with another number. So something is wrong with the assignments. We will get behind it in a minute :P
+
+**Thought**
+Difficult to go behind the stuff. Days are a bit draining because of waiting for different (important) stuff. So that consumes a lot of energy. Should find a way to get around that but .. yeah.
+Music helps a lot to work on this stuff. Puts a hull around. 
+Also need to get a bit faster. But that, I guess, comes with staying behind it. 
+
+
+
+### Day 1. 05.12.2022
 Decided to start today. Why loosing time? No excuse for that.
 Maily Python for the Code-Challenge. Sometimes also other projects and stuff for data. We will see how things will develop. Also creating a Portfolio-Website is ongoing. Just waiting for the transfer to the domain. 
 
-
-**Today's Progress**: Starting
+**Today's Progress**: 
+Starting
 So: forked the repo, imported it to VSCode. Also a very nice practice of GitHub.
 Now going on with Python.
 
